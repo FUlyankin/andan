@@ -1,7 +1,6 @@
 ## Симуляции случайных величин
 
-
-Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FULYANKIN/andan/blob/main/sem01_intro/sem01_python_simulations.ipynb)
+Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FUlyankin/andan/blob/main/sem01_simulations/sem01_python_simulations.ipynb)
 
 В тетрадке довольно много задачек на симуляции. На семинаре мы успеем решить не все. Можно попробовать их дорешать, а затем свериться с нашими решениями. Они лежат в папке рядом. 
 
@@ -11,11 +10,9 @@ __Что ещё посмотреть?__
 
 Все тетрадки и презы с этого курса [лежат вот тут.](https://github.com/FUlyankin/matstat-AB) **[ru]**
 
-
 - Мы только начали погружаться в визуализацию в python и немного поговорили про матплотлиб: 
 
 __а)__ Для матплотлиба можно найти несколько туториалов [прямо на сайте библиотеки](https://matplotlib.org/3.2.1/tutorials/index.html) **[en]**
-
 
 __б)__ Можно посмотреть [тетрадку про то, как правильно рисовать графики](https://github.com/esokolov/ml-course-hse/blob/master/2022-fall/seminars/sem02-charts.ipynb) в python c ФКН. Мы используем её там как справочный материал для студентов. **[ru]**
 
