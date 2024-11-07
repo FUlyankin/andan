@@ -1,7 +1,7 @@
 ## Симуляции случайных величин
 
 
-Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/andan2024/blob/main/sem01_intro/sem01_python_simulations.ipynb)
+Тетрадка для семинара в колабе: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-econ-data-science/andan/blob/main/sem01_intro/sem01_python_simulations.ipynb)
 
 В тетрадке довольно много задачек на симуляции. На семинаре мы успеем решить не все. Можно попробовать их дорешать, а затем свериться с нашими решениями. Они лежат в папке рядом. 
 
